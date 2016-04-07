@@ -17,6 +17,7 @@ function transformInt(x) {
     return y;
 }
 
+
 function verificarPontos(x) {
     if (x > 28) {
         mostra("Nosso Time esta melhor que o Livros Velhos");
